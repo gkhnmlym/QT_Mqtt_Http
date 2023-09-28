@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/mqtt/">
+    <file alias="Constants.qml">C:/Users/KEGMULAYIM/Desktop/mqtt/imports/mqtt/Constants.qml</file>
+    <file alias="DirectoryFontLoader.qml">C:/Users/KEGMULAYIM/Desktop/mqtt/imports/mqtt/DirectoryFontLoader.qml</file>
+    <file alias="EventListModel.qml">C:/Users/KEGMULAYIM/Desktop/mqtt/imports/mqtt/EventListModel.qml</file>
+    <file alias="EventListSimulator.qml">C:/Users/KEGMULAYIM/Desktop/mqtt/imports/mqtt/EventListSimulator.qml</file>
+  </qresource>
+</RCC>
+

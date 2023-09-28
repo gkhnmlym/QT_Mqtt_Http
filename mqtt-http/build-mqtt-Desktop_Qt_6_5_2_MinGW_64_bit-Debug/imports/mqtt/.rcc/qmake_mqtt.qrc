@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/mqtt">
+    <file alias="qmldir">C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/qml/mqtt/qmldir</file>
+  </qresource>
+</RCC>
+

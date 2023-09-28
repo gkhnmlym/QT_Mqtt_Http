@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/KEGMULAYIM/Desktop/mqtt
+-cmake-output
+-output-file
+C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_mqttApp.cmake
+-importPath
+C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/qml/Main
+-importPath
+C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/qml
+-importPath
+C:/Qt/6.5.2/mingw_64/./qml
+-qrcFiles
+C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/.rcc/configuration.qrc
+C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/.rcc/qmake_Main.qrc
+C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/.rcc/mqttApp_raw_qml_0.qrc

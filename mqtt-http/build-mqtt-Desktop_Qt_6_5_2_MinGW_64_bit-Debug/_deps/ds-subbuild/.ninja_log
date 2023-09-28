@@ -1,0 +1,21 @@
+# ninja log v5
+1	35	7175894662601948	ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	3b1d21434d913d96
+1	35	7175894662601948	C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir	3b1d21434d913d96
+35	3489	7175894697134505	ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	576ac0a94789ec9c
+35	3489	7175894697134505	C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download	576ac0a94789ec9c
+3489	4818	0	ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	1d894825463b3f3e
+3489	4818	0	C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update	1d894825463b3f3e
+4818	4852	7175894710771393	ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	3a2a079859d20ade
+4818	4852	7175894710771393	C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch	3a2a079859d20ade
+4852	4884	7175894711092061	ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	dac2cf10f99c49b5
+4852	4884	7175894711092061	C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure	dac2cf10f99c49b5
+4884	4916	7175894711411982	ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	3a9cc1c0827eae5f
+4884	4916	7175894711411982	C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build	3a9cc1c0827eae5f
+4916	4949	7175894711741690	ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	544c002aa530a35f
+4916	4949	7175894711741690	C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install	544c002aa530a35f
+4949	4981	7175894712060626	ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	27dba735df171d3b
+4949	4981	7175894712060626	C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test	27dba735df171d3b
+4981	5026	7175894712516291	CMakeFiles/ds-populate-complete	96be04aa9e86f0a6
+4981	5026	7175894712516291	ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	96be04aa9e86f0a6
+4981	5026	7175894712516291	C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate-complete	96be04aa9e86f0a6
+4981	5026	7175894712516291	C:/Users/KEGMULAYIM/Desktop/mqtt/build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-done	96be04aa9e86f0a6

@@ -1,0 +1,75 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"imports/mqtt/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "mqtt_resources_2_autogen_timestamp_deps::@64cd6d9ef5191c214843"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "mqtt_resources_2_autogen::@64cd6d9ef5191c214843",
+	"isGeneratorProvided" : true,
+	"name" : "mqtt_resources_2_autogen",
+	"paths" : 
+	{
+		"build" : "imports/mqtt",
+		"source" : "imports/mqtt"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/imports/mqtt/CMakeFiles/mqtt_resources_2_autogen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/imports/mqtt/CMakeFiles/mqtt_resources_2_autogen.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build-mqtt-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/imports/mqtt/mqtt_resources_2_autogen/timestamp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}
